@@ -1,0 +1,2 @@
+<!--components/{{ componentName }}/index.wxml-->
+<text>components/{{ componentName }}/index.wxml</text>

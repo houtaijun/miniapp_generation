@@ -1,0 +1,2 @@
+<!--pages/{{ pageName }}/index.wxml-->
+<text>pages/{{ pageName }}/index.wxml</text>
